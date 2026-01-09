@@ -8,7 +8,7 @@ This folder covers **Advanced Unit Testing** and **Component Testing** using Vit
 
 ## File Descriptions
 
-- **advanced-exercises.test.tsx**: A comprehensive exercise sheet covering:
+- **exercises.test.tsx**: A comprehensive exercise sheet covering:
   - Basic assertions and object matching.
   - Lifecycle hooks (`beforeEach`).
   - Mocking functions (`vi.fn`).
