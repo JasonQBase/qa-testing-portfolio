@@ -4,7 +4,7 @@ This folder focuses on the fundamental concepts of **Unit Testing** using Vitest
 
 ## Slide Links
 
-- 📘 [Vitest Slides](https://docs.google.com/presentation/d/1lUcJSn55y2kcPaRUlyK5S6BxE0jcQ1HdPvTaBwKvQpE/edit?slide=id.p1#slide=id.p1)
+- 📘 [Vitest Slides](https://docs.google.com/presentation/d/1qjJCVbcdStSaTxqr4436y-l1vmWeNc4b-dn2ykNTHJs/edit?slide=id.p4#slide=id.p4)
 
 ## File Descriptions
 
