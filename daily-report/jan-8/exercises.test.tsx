@@ -67,7 +67,7 @@ it("Example of toBeNull", () => {
 it("Example of toBeTruthy", () => {
  const score = 100;
  const message = "Hello";
- const myArr = [];
+ const myArr: any[] = [];
 
  expect(score).toBeTruthy(); // 100 is truthy
  expect(message).toBeTruthy(); // Non-empty string is truthy

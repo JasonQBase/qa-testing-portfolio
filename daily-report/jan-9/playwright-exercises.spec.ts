@@ -218,7 +218,7 @@ test("Global Setup & Teardown", async ({ page }) => {
 test("Mocking Time", async ({ page }) => {
   // Speed up time for testing timeouts
   const fakeNow = new Date("2026-01-01T10:00:00Z");
-  await page.clock.install({ now: fakeNow });
+  await page.clock.install({ time: fakeNow });
 
   await page.goto("/");
 
